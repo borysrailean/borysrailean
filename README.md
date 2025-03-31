@@ -1,5 +1,6 @@
-## Hi im Borys 👋
-##[Visit My Website](https://example.com),[Visit My Website](https://example.com)
+## Hi im Borys
+👋
+[Cyber Engineer/Programmer](https://github.com/borysrailean),[Cybersecurity & Digital Forensics Student](www.linkedin.com/in/borys-railean)
 
 
 <!--
